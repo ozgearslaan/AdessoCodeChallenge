@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ReY0MS8yLT6WT0T12QjgbNRKIe/Qboo0LLUdYIvAKFwvE3wIlyDKE4OuLmJ7R9gVunIZwMAoug6WdllbDkMGIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ozgea\\source\\repos\\CodeChallenge\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ozgea\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\ozgea\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ozgea\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ozgea\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\ozgea\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\ozgea\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\ozgea\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\ozgea\source\repos\CodeChallenge\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\ozgea\source\repos\CodeChallenge\Service\bin\Debug\net6.0\Service.dll
+C:\Users\ozgea\source\repos\CodeChallenge\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\ozgea\source\repos\CodeChallenge\Service\bin\Debug\net6.0\Core.dll
+C:\Users\ozgea\source\repos\CodeChallenge\Service\bin\Debug\net6.0\Core.pdb
+C:\Users\ozgea\source\repos\CodeChallenge\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\ozgea\source\repos\CodeChallenge\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgea\source\repos\CodeChallenge\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\ozgea\source\repos\CodeChallenge\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\ozgea\source\repos\CodeChallenge\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\ozgea\source\repos\CodeChallenge\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\ozgea\source\repos\CodeChallenge\Service\obj\Debug\net6.0\Service.dll
+C:\Users\ozgea\source\repos\CodeChallenge\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\ozgea\source\repos\CodeChallenge\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\ozgea\source\repos\CodeChallenge\Service\obj\Debug\net6.0\ref\Service.dll
